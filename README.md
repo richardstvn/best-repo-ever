@@ -1,4 +1,3 @@
 # best-repo-ever
 Today we went out for a party.
-Tomorrow's plan decided
-How about the day after? No No No	:wq
+On 7 Mar's plan decided
